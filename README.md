@@ -7,3 +7,5 @@
  ```
  iwr -useb https://github.com/ThatsAlbe/task-manager | iex
  ```
+
+ Reboot the computer after this!
