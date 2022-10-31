@@ -5,7 +5,7 @@
  Requires you to launch PowerShell or Windows Terminal As ADMINISTRATOR! 
 
  ```
- iwr -useb https://github.com/ThatsAlbe/Task-Manager/blob/main/task%20manager.ps1 | iex
+ irm https://raw.githubusercontent.com/ThatsAlbe/Task-Manager/main/task%20manager.ps1 | iex
  ```
 
  Reboot the computer after this!
